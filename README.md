@@ -1,5 +1,5 @@
 
-# AgriTrust: A data driven solution to enable young farmers access loan
+# AgriConnect: A data driven solution to enable young farmers access loan
 
 This project focuses on helping young agripreneurs in Nigeria obtain access to afforable finance by building an app that banks, investors, or grant bodies could trust to fund young farmers.
 
