@@ -43,8 +43,10 @@ Key findings from data exploration
 
 1. only 1.9% of the sample youths had tax clearnce certificate and Local Government rates and tax invoice
 
-2. only 2.2% of the sample youth had insurance
+2. 97.8% of youths don't have insurance
 
-3. 
+3. 57.5% of the youths are financillay coping
 
-These two factors which
+4. 43.8% of the youths have a manageable amount of debt
+
+These findings help explain why younger farmers may face challenges in being considered creditworthy for loans.
