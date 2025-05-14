@@ -36,7 +36,8 @@ Random forest classifier was able to predict 175 out 175 not creditworthy farmer
 
 The model was used to build a web app to enable banks identify creditworthy farmers who can be trusted with funds.
 
-Feel free to explore the app.
+Feel free to explore the app
+https://hackathon-bwcuthflmfynjetsfrmpgt.streamlit.app/
 
 ## Conclusion
 Key findings from data exploration
